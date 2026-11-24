@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Project image placeholder">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d8c9a5"/><stop offset="1" stop-color="#514536"/></linearGradient>
+    <pattern id="p" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M0 48 48 0M-12 12 12-12M36 60 60 36" stroke="#fff" stroke-opacity=".08" stroke-width="2"/></pattern>
+  </defs>
+  <rect width="1200" height="800" fill="url(#g)"/><rect width="1200" height="800" fill="url(#p)"/>
+  <path d="M350 520V300l250-120 250 120v220M430 520V330h340v190M520 330v190m160-190v190" fill="none" stroke="#fff" stroke-opacity=".65" stroke-width="12"/>
+  <text x="600" y="650" text-anchor="middle" fill="#fff" font-family="Arial,sans-serif" font-size="34" letter-spacing="6">YAGANTI SIGNATURE SUITES</text>
+</svg>
